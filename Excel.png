@@ -1,0 +1,24 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Feb 13, 2026, 1:57:03 PM
+    Author     : ehmalnieks
+*/
+body{
+    
+   /* background-image:url(https://thumbs.dreamstime.com/b/binary-code-abstract-technology-background-big-data-coding-hacker-concept-computer-technologies-flowing-number-one-zero-134686376.jpg);
+    background-size: 100% 100%;*/
+
+    background-color: #ffcc40; 
+}
+h1 {
+  font-size: 100px;
+}
+h2{
+    font-size: 50px;
+}
+h3 {
+    font-size: 30px;
+}
